@@ -1,0 +1,10 @@
+D:\C# practice\car raching game\car raching game\bin\Debug\car raching game.exe.config
+D:\C# practice\car raching game\car raching game\bin\Debug\car raching game.exe
+D:\C# practice\car raching game\car raching game\bin\Debug\car raching game.pdb
+D:\C# practice\car raching game\car raching game\obj\Debug\car raching game.csprojAssemblyReference.cache
+D:\C# practice\car raching game\car raching game\obj\Debug\car_raching_game.Form1.resources
+D:\C# practice\car raching game\car raching game\obj\Debug\car_raching_game.Properties.Resources.resources
+D:\C# practice\car raching game\car raching game\obj\Debug\car raching game.csproj.GenerateResource.cache
+D:\C# practice\car raching game\car raching game\obj\Debug\car raching game.csproj.CoreCompileInputs.cache
+D:\C# practice\car raching game\car raching game\obj\Debug\car raching game.exe
+D:\C# practice\car raching game\car raching game\obj\Debug\car raching game.pdb
